@@ -4,7 +4,7 @@ Static binary analysis powered by AI — extract features, query threat intellig
  
 ![Demo](assets/demo2.png)
  
-**Live demo:** [georgenadejde.github.io/aiassistant](https://binary-analysis-assistant.streamlit.app/)
+[**Live demo**](https://binary-analysis-assistant.streamlit.app/)
  
 ---
  
