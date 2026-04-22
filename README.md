@@ -2,8 +2,6 @@
  
 Static binary analysis powered by AI — extract features, query threat intelligence APIs, and generate structured threat reports in seconds.
  
-![Demo](assets/demo.png)
-
 ![Demo](assets/demo2.png)
  
 **Live demo:** [georgenadejde.github.io/aiassistant](https://georgenadejde.github.io/aiassistant)
